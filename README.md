@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omerhastaken
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Back-end
-- 📫 How to reach me by insta @omerwastakeen
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me by insta @omeeerefe
 
 
 <!---
