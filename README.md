@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omerhastaken
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning C/C#
 - 📫 How to reach me by insta @omeeerefe
 
 
